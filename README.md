@@ -13,6 +13,10 @@ This problem is itself a research question. "Metascience" is what [Analogue](htt
 
 Marketing, propaganda, and art, can all be considered "applied memetics".
 
+### Contact
+
+My preferred method of communication is in public (this way my answers help others, or others can correct me). You can @ me in any of the online communities I'm in, or open a GitHub issue in my personal repo here: https://github.com/OmarShehata/OmarShehata/issues.
+
 ### Open questions
 
 - What is the frontier of "dark memetics"? How accurate are models of the behavior of human populations at places like Graphika, Palantir, and social media companies?
