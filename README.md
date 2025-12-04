@@ -21,6 +21,11 @@ Marketing, propaganda, and art, can all be considered "applied memetics".
 - Can we evolve a culture of memetic tracing? Such that within that network, any undesired change can be traced back to its source (whether organic, or engineered)
   - If that works, in any network on earth, it may then get adopted by other networks who wish to "clean up" their memetic environment. 
 
+### Published work
+
+- [Community Archive](https://github.com/DefenderOfBasic/PhD/blob/main/twitter-community-archive.md) - what if instead of analyzing people's social media data in secret, we just asked them for it? The goal of this project was to demonstrate that people are willing to give their data freely to those they trust, and that this would enable more "invasive" kinds of analysis that wouldn't be possible by the passive surveillance done by academics or companies. 
+- [Anatomy of an Internet Argument](https://github.com/DefenderOfBasic/in-good-faith-handbook?tab=readme-ov-file#-anatomy-of-an-internet-argument-) - a social protocol designed to normalize testing people's epistemology on the internet in a pro-social way. This is the most ambitious one because it's designed to scale up to all interactions on the internet. 
+
 <!--
 
  There is a similarity here to geo-engineering in that any work done interferes with each other, because it's all operating on the same shared system. 
