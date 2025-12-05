@@ -24,6 +24,7 @@ My preferred method of communication is in public (this way my answers help othe
 - How do we write down & communicate the current state of the "memetic landscape"? Another word for this is "noosphere" or "space of all beliefs currently held & ideas currently alive within human minds"
 - Can we evolve a culture of memetic tracing? Such that within that network, any undesired change can be traced back to its source (whether organic, or engineered)
   - If that works, in any network on earth, it may then get adopted by other networks who wish to "clean up" their memetic environment. 
+- Can we construct a "hotline" from every subculture on earth to every other one? Probably via some kind of middle layer 
 
 ### Published work
 
