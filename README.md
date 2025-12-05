@@ -29,6 +29,7 @@ My preferred method of communication is in public (this way my answers help othe
 
 - [Community Archive](https://github.com/DefenderOfBasic/PhD/blob/main/twitter-community-archive.md) - what if instead of analyzing people's social media data in secret, we just asked them for it? The goal of this project was to demonstrate that people are willing to give their data freely to those they trust, and that this would enable more "invasive" kinds of analysis that wouldn't be possible by the passive surveillance done by academics or companies. 
 - [Anatomy of an Internet Argument](https://github.com/DefenderOfBasic/in-good-faith-handbook?tab=readme-ov-file#-anatomy-of-an-internet-argument-) - a social protocol designed to normalize testing people's epistemology on the internet in a pro-social way. This is the most ambitious one because it's designed to scale up to all interactions on the internet. 
+- [Good & Evil Words](https://github.com/DefenderOfBasic/good-and-evil-concepts?tab=readme-ov-file#polarized-words) - web tool to demonstrate how LLM embeddings provide an empirical way to measure the "shape" of the memetic landscape/noosphere. A "live" version of this does not yet exist, but if it did, it would allow us to actually empirically measure cultural drift (like seeing the word "gay" become more normalized, OR more polarized). Such a measurement tool would unlock the entire field of open cultural engineering (you can actually see if your experiments work or not)
 
 <!--
 
